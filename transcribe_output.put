@@ -1,0 +1,37 @@
+(asr) payalsaha@Payals-Laptop ASR-STT % python transcribe_mic.py
+/Users/payalsaha/miniconda3/envs/asr/lib/python3.10/site-packages/webrtcvad.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+[init] Loading Faster-Whisper model : small
+[mic] Start speaking. Ctrl+C to stop.
+[partial] Hey, I'm checking.
+[partial] taking if the...
+[partial] real time.
+[partial] time transcription.
+[partial] is working.
+[partial] working at...
+[partial] and I want to
+[partial] to check the R.
+[final] RTF.
+[final] T.F.
+[final] Let's see.
+[final] Let's see.
+[final] See?
+[final] Yep.
+[final] Yep, what is...
+[final] notice.
+[partial] What is the...
+[partial] RTF
+[partial] is that I want to.
+[partial] want to know so I
+[partial] So I will just do
+[partial] the breastcon.
+[partial] control C and L.
+[partial] and let's see
+[partial] What is the
+[partial] what is the value that it gives.
+[final] is added gifts.
+[final] gifts.
+^C
+[main] Waiting for worker to finish...
+[final] lives.
+chunks = 29, rtf = 0.9784767976621302
